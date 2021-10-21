@@ -1,12 +1,12 @@
 body {background-color: white; margin-left: 25px; margin-right: 25px;}
 
-#Photo {float: left}
+#Photo {float: left; width: auto; height: 150px;}
 
 h1 {color: rgb(71,144,153); margin-left: 180px; margin-bottom: 5px; font: arial}
 
 h2 {font: arial; margin-left: 180px; margin-top: 1px; font-weight: normal;}
 
-#intro {margin-left: 180px; font-size: 17px; font: arial}
+#intro {margin-left: 180px; font-size: 17px; font: arial; font-weight: normal;}
 
 hr{border: 1px solid black;} /* Reference : https://www.w3schools.com/howto/howto_css_style_hr.asp */
 
