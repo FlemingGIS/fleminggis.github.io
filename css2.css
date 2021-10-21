@@ -2,7 +2,7 @@ body {background-color: white; margin-left: 25px; margin-right: 25px;}
 
 #Photo {float: left; width: auto; height: 150px;}
 
-h1 {color: rgb(71,144,153); margin-left: 180px; margin-bottom: 5px; font: arial}
+h1 {color: rgb(71,144,153); margin-left: 180px; margin-bottom: 5px; font-family: "arial", Helvetica, sans-serif;}
 
 h2 {font: arial; margin-left: 180px; margin-top: 1px; font-weight: normal;}
 
@@ -48,7 +48,7 @@ h6 {font: arial; font-size: 18px; color: black; font-weight: normal; margin-top:
 table {
   width: 90%; margin-left: auto;
   margin-right: auto;
-  width: 80%; margin-top: 200px, margin-bottom: 20px;
+  width: 80%; margin-top: 200px; margin-bottom: 20px;
 }
 
 table, th, td {
