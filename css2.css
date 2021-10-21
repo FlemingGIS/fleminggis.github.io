@@ -61,7 +61,7 @@ th {
   color: rgb(6, 30, 61);
 }
 
-.h3extension{font: arial; font-size: 23px; color: rgb(71,144,153); font-weight: bold; margin-bottom: 40px}
+.h3extension{font-family: "arial", Helvetica, sans-serif; font-size: 23px; color: rgb(71,144,153); font-weight: bold; margin-bottom: 40px}
 
 .image {width: 100%; height: auto;} /* https://www.w3schools.com/css/css3_images.asp */
 
