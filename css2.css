@@ -4,35 +4,35 @@ body {background-color: white; margin-left: 25px; margin-right: 25px;}
 
 h1 {color: rgb(71,144,153); margin-left: 180px; margin-bottom: 5px; font-family: "arial", Helvetica, sans-serif;}
 
-h2 {font: arial; margin-left: 180px; margin-top: 1px; font-weight: normal;}
+h2 {font-family: "arial", Helvetica, sans-serif; margin-left: 180px; margin-top: 1px; font-weight: normal;}
 
-#intro {margin-left: 180px; font-size: 17px; font: arial; font-weight: normal;}
+#intro {margin-left: 180px; font-size: 17px; font-family: "arial", Helvetica, sans-serif; font-weight: normal;}
 
 hr{border: 1px solid black;} /* Reference : https://www.w3schools.com/howto/howto_css_style_hr.asp */
 
-#element1 {font: arial; display: inline; margin-left: 95px; font-size: 15px;} /* Reference: https://www.w3schools.com/css/css_inline-block.asp */
+#element1 {font-family: "arial", Helvetica, sans-serif; display: inline; margin-left: 95px; font-size: 15px;} /* Reference: https://www.w3schools.com/css/css_inline-block.asp */
 
-#element2 {font: arial; display: inline; margin-left: 130px; font-size: 15px;} 
+#element2 {font-family: "arial", Helvetica, sans-serif; display: inline; margin-left: 130px; font-size: 15px;} 
 
-#element3 {font: arial; display: inline; margin-left: 130px; font-size: 15px;} 
+#element3 {font-family: "arial", Helvetica, sans-serif; display: inline; margin-left: 130px; font-size: 15px;} 
 
-#element4 {font: arial; display: inline; margin-left: 130px; font-size: 15px;} 
+#element4 {font-family: "arial", Helvetica, sans-serif; display: inline; margin-left: 130px; font-size: 15px;} 
 
-h3{font: arial; font-size: 23px; color: rgb(71,144,153); font-weight: bold; margin-bottom: 7px} /* Reference : https://www.w3schools.com/cssref/pr_font_weight.asp */
+h3{font-family: "arial", Helvetica, sans-serif; font-size: 23px; color: rgb(71,144,153); font-weight: bold; margin-bottom: 7px} /* Reference : https://www.w3schools.com/cssref/pr_font_weight.asp */
 
-h4{font: arial; font-size: 20px; color: black; font-weight: bold; margin-bottom: 0px;}
+h4{font-family: "arial", Helvetica, sans-serif; font-size: 20px; color: black; font-weight: bold; margin-bottom: 0px;}
 
-p.smalltext {font: arial; font-style: italic; font-size: 13px; color: grey; font-weight: normal; margin-top: 0.5px; margin-right: 300px; margin-bottom: 50px; display: inline;}
+p.smalltext {font-family: "arial", Helvetica, sans-serif; font-style: italic; font-size: 13px; color: grey; font-weight: normal; margin-top: 0.5px; margin-right: 300px; margin-bottom: 50px; display: inline;}
 
-h5 {font: arial; font-size: 20px; color: black; font-weight: normal; margin-top: 2px; margin-bottom: 0px;}
+h5 {font-family: "arial", Helvetica, sans-serif; font-size: 20px; color: black; font-weight: normal; margin-top: 2px; margin-bottom: 0px;}
 
-.link {font: arial; color: rgb(0,47,108); font-weight: normal; margin-top: 0px;}
+.link {font-family: "arial", Helvetica, sans-serif; color: rgb(0,47,108); font-weight: normal; margin-top: 0px;}
 
-h6 {font: arial; font-size: 18px; color: black; font-weight: normal; margin-top: 10px; margin-bottom: 0px;}
+h6 {font-family: "arial", Helvetica, sans-serif; font-size: 18px; color: black; font-weight: normal; margin-top: 10px; margin-bottom: 0px;}
 
 .bulletpoints{list-style-type: circle; margin-left: -15px}  /* Reference: https://www.w3schools.com/css/css_list.asp */
 
-.educationh4 {font: arial; font-size: 20px; color: black; font-weight: bold; margin-top: 25px;}
+.educationh4 {font-family: "arial", Helvetica, sans-serif; font-size: 20px; color: black; font-weight: bold; margin-top: 25px;}
 
 #gate {margin-bottom: 0px; margin-top: 5px; font-size:18px; font-weight: bold; font-style: italic; color: rgb(0,47,108);}  /* Reference: https://www.w3schools.com/cssref/pr_font_weight.asp */
 
